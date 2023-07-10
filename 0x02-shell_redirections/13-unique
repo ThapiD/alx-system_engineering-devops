@@ -1,2 +1,2 @@
 #!/bin/bash
-sort ListOfWords | uniq -u
+sort | uniq -u
